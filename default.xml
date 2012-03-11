@@ -8,7 +8,7 @@
            fetch=".."
            review="review.cyanogenmod.com" />
 
-  <default revision="gingerbread"
+  <default revision="gb-release-7.2"
            remote="github" />
 		   
   <remote  name="shaika"
